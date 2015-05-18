@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wireless Tutorial</string>
+    <string name="title_activity_my">MyActivity</string>
+
+    <string name="MyActivity_title_text">Change the background!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Push Me!</string>
+</resources>
